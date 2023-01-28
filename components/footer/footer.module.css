@@ -1,0 +1,14 @@
+.footer{
+    display:flex;
+    flex-direction:row;
+    width:100%;
+    justify-content:space-evenly;
+    text-align:center;
+}
+.ul{
+    list-style-type:none;
+}
+.hl{
+    display:flex;
+    justify-content:space-evenly;
+}
