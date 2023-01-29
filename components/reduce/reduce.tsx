@@ -1,6 +1,6 @@
 import styles from './reduce.module.css'
 
-function reduce(){
+function Reduce(){
 
     return(
         <>
@@ -13,3 +13,4 @@ function reduce(){
 
     )
 }
+export default Reduce;
