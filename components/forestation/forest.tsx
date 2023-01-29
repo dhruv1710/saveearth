@@ -13,6 +13,11 @@ function Forest(){
             also means there will be more
             houses for the fauna that 
             inhabits the forest</h1>
+        <h1 id='rectwo'>As the amount of trees will 
+        grow the amount of carbon
+        dioxide will reduce as well
+        which gives us more fresh air 
+        in our atmosphere.</h1>
         </>
     )
 }
