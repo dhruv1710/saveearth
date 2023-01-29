@@ -10,3 +10,16 @@
     font-family: 'Times New Roman', Times, serif;
 
 }
+
+
+.reduc{
+    position:relative;
+
+    width:422px;
+    height:95px;
+    left:40px;
+    top:209px;
+
+    color:#000000
+
+}

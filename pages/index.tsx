@@ -5,6 +5,7 @@ import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 import Landing from '@/components/landing/landing'
 import Reduce from '@/components/reduce/reduce'
+import Forest from '@/components/forestation/forest'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -20,7 +21,7 @@ export default function Home() {
       <main className={styles.main}>
         <Landing></Landing>
         <Reduce></Reduce>
-        Forest
+        <Forest></Forest>
       </main>
       <Footer></Footer>
     </>
