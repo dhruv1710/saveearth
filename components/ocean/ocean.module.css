@@ -1,0 +1,69 @@
+.oceanbg{
+
+    background-color:#2A628F;
+    width:100%;
+    height:100vh;
+    border-radius:10px;
+
+}
+
+
+.head{
+    position:relative;
+    font-size:94px;
+    color:#93FFEB;
+    width:956px;
+    height:104px;
+
+
+    margin-left:10px;
+
+}
+
+
+.line{
+    position:relative;
+    background:#93FFEB;
+    width:750px;
+    height:10px;
+    border-radius:100px;
+
+
+    margin-top:25px;
+    margin-left:5px;
+    
+}
+
+
+
+.headbox{
+
+     position:relative;
+     width:343px;
+     height:61px;
+     background: #C2FFF0;
+
+
+     margin-left:44px;
+     margin-top:265px;  
+}
+
+.headbox2{
+
+    position:relative;
+    width:343px;
+    height:61px;
+    background: #C2FFF0;
+
+    margin-left:430px;
+    margin-top:265px; 
+}
+
+
+.headbox3{
+
+    position:relative;
+    width:343px;
+    height:61px;
+    background: #C2FFF0;
+}

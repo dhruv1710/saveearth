@@ -1,0 +1,22 @@
+.root{
+    height:100vh;
+    width:100%;
+    background-color:white;
+    margin-bottom:20px;
+}
+
+.Head{
+    position:relative;
+    font-size:94px;
+    color:gray;
+    width:956px;
+    height:104px;
+
+}
+
+.box{
+    width: 320px;
+    height: 400px;
+    position: relative;
+
+}
