@@ -34,36 +34,37 @@
     
 }
 
+ .list{
+    margin-top:20px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+
+}
+
 
 
 .headbox{
 
-     position:relative;
+     
      width:343px;
      height:61px;
      background: #C2FFF0;
+     color:#023E8A;
+     
+     font-size:38px;
 
 
-     margin-left:44px;
-     margin-top:265px;  
-}
 
-.headbox2{
 
-    position:relative;
-    width:343px;
-    height:61px;
-    background: #C2FFF0;
-
-    margin-left:430px;
-    margin-top:265px; 
 }
 
 
-.headbox3{
-
-    position:relative;
-    width:343px;
-    height:61px;
-    background: #C2FFF0;
+.box{
+    width: 343px;
+    height: 547px;
+    background-color:#3E92CC;
+    font-size:26px;
+    text-align:center;
+    border-radius:25px;
 }

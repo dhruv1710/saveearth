@@ -11,7 +11,7 @@ var cells = [
 export default function Industry(){
     return (
         <div className={styles.rootI}>
-            <div className='w-full bg-white h-24 flex justify-center items-center text-4xl text-black'>Industry</div>
+            <div className='w-full bg-white h-24 flex justify-center items-center text-4xl text-black'>Industrial Waste</div>
             <div class="flex flex-col justify-center items-center">
                 {
                     cells.map((val)=>(

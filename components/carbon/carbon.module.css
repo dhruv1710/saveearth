@@ -3,20 +3,77 @@
     width:100%;
     background-color:white;
     margin-bottom:20px;
+    display:flex;
+    ;
 }
 
+.imgdiv{
+    padding-right:30px;
+}
 .Head{
     position:relative;
-    font-size:94px;
+    font-size:50px;
     color:gray;
     width:956px;
-    height:104px;
-
+    height:64px;
+    margin-left:5px;
 }
 
-.box{
-    width: 320px;
-    height: 400px;
+.prob{
     display:flex;
+    flex-direction:column;
+    padding:15px;
+    font-size: 30px;
+    color:black;
+}
 
+.rect{
+    width: 390px;
+    height: 220px;
+    margin:10px;
+    background: #B4B8AB;
+    border-radius: 28px;
+    display:flex;
+    align-items:center;
+    padding:50px;
+    font-size:20px;
+    margin-bottom:5px;
+}
+
+.recto{
+    width: 393px;
+    height: 220px;
+    margin:10px;
+    background: #B4B8AB;
+    border-radius: 28px;
+    display:flex;
+    align-items:center;
+    padding:50px;
+    font-size:20px;
+    margin-bottom:5px;
+}
+
+.rects{
+    display:flex;
+}
+
+.solut{
+    width: 769px;
+    height: 220px;
+    margin:10px;
+    background: #B4B8AB;
+    border-radius: 28px;
+    display:flex;
+    align-items:center;
+    padding:50px;
+    font-size:20px;
+    margin-bottom:5px;
+}
+
+.sol{
+    display:flex;
+    flex-direction:column;
+    padding:15px;
+    font-size: 30px;
+    color:black;
 }
