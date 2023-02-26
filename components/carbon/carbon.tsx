@@ -33,7 +33,7 @@ export default function Carbon(){
             <div className={styles.imgdiv}>
 
                 
-                <img src="/images/carbon.png" height="643px" width="334px" className='w-96 '></img>
+                <img src="/images/carbon.png" height="643px" width="334px" className={styles.img}></img>
 
             </div>
             

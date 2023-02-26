@@ -1,13 +1,19 @@
-.root{
+        .root{
     height:100vh;
     width:100%;
     background-color:white;
+    
     margin-bottom:20px;
     display:flex;
     ;
 }
 
 .imgdiv{
+    padding-right:30px;
+    display:flex;
+    align-items:center;
+}
+.img{
     padding-right:30px;
 }
 .Head{
@@ -52,7 +58,7 @@
     font-size:20px;
     margin-bottom:5px;
 }
-
+///
 .rects{
     display:flex;
 }

@@ -10,7 +10,7 @@
 
 .head{
     position:relative;
-    font-size:94px;
+    font-size:86px;
     color:#93FFEB;
     width:956px;
     height:104px;
@@ -51,6 +51,7 @@
      height:61px;
      background: #C2FFF0;
      color:#023E8A;
+     border-radius:7px;
      
      font-size:38px;
 
